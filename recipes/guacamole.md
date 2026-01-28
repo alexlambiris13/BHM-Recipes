@@ -1,5 +1,5 @@
 # Ingredients
 - avocado
 - lemon
-- garlic
-
+- tomato
+- onion
